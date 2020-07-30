@@ -7,4 +7,6 @@ I work full-time as Costs Analysts in a furniture factory, but all my free time 
 I like to watch movies, series, travel with my wife, play football and video games, play guitar and listening to good music!
 
 **emanuelgustavo/emanuelgustavo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--
 - 📫 How to reach me: ...
+-->
